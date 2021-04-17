@@ -1,2 +1,2 @@
-# Project_A
-First Web project A
+# Project-A
+First Web project
